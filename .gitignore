@@ -1,0 +1,18 @@
+# mirrors & test output
+mirror-*/
+*/hts-cache/
+hts-log.txt
+backblue.gif
+fade.gif
+cookies.txt
+
+# node / playwright (optional dependency, installed by the user)
+node_modules/
+package-lock.json
+
+# python
+__pycache__/
+*.pyc
+
+# os
+.DS_Store
